@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CAI_08-EjercicioPresentismo.UI/1.0.0": {
+        "runtime": {
+          "CAI_08-EjercicioPresentismo.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAI_08-EjercicioPresentismo.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

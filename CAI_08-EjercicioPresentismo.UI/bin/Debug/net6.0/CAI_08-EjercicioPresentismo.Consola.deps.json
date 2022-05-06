@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CAI_08-EjercicioPresentismo.Consola/1.0.0": {
+        "dependencies": {
+          "CAI_08-EjercicioPresentismo.Dominio": "1.0.0",
+          "CAI_08-EjercicioPresentismo.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CAI_08-EjercicioPresentismo.Consola.dll": {}
+        }
+      },
+      "CAI_08-EjercicioPresentismo.Dominio/1.0.0": {
+        "dependencies": {
+          "CAI_08-EjercicioPresentismo.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CAI_08-EjercicioPresentismo.Dominio.dll": {}
+        }
+      },
+      "CAI_08-EjercicioPresentismo.Entidades/1.0.0": {
+        "runtime": {
+          "CAI_08-EjercicioPresentismo.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAI_08-EjercicioPresentismo.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CAI_08-EjercicioPresentismo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CAI_08-EjercicioPresentismo.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

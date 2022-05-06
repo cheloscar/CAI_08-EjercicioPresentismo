@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CAI_08-EjercicioPresentismo.Dominio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CAI_08-EjercicioPresentismo.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CAI_08-EjercicioPresentismo.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CAI_08-EjercicioPresentismo.Dominio.dll": {}
+        }
+      },
+      "CAI_08-EjercicioPresentismo.Entidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CAI_08-EjercicioPresentismo.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CAI_08-EjercicioPresentismo.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAI_08-EjercicioPresentismo.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../CAI_08-EjercicioPresentismo.Dominio/CAI_08-EjercicioPresentismo.Dominio.csproj",
+      "msbuildProject": "../CAI_08-EjercicioPresentismo.Dominio/CAI_08-EjercicioPresentismo.Dominio.csproj"
+    },
+    "CAI_08-EjercicioPresentismo.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../CAI_08-EjercicioPresentismo.Entidades/CAI_08-EjercicioPresentismo.Entidades.csproj",
+      "msbuildProject": "../CAI_08-EjercicioPresentismo.Entidades/CAI_08-EjercicioPresentismo.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CAI_08-EjercicioPresentismo.Dominio >= 1.0.0",
+      "CAI_08-EjercicioPresentismo.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mgarayalde\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.UI\\CAI_08-EjercicioPresentismo.Consola.csproj",
+      "projectName": "CAI_08-EjercicioPresentismo.Consola",
+      "projectPath": "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.UI\\CAI_08-EjercicioPresentismo.Consola.csproj",
+      "packagesPath": "C:\\Users\\mgarayalde\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mgarayalde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.Dominio\\CAI_08-EjercicioPresentismo.Dominio.csproj": {
+              "projectPath": "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.Dominio\\CAI_08-EjercicioPresentismo.Dominio.csproj"
+            },
+            "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.Entidades\\CAI_08-EjercicioPresentismo.Entidades.csproj": {
+              "projectPath": "C:\\Users\\mgarayalde\\OneDrive\\Facultad\\PracticasCAI2022\\CAI_08-EjercicioPresentismo\\CAI_08-EjercicioPresentismo.Entidades\\CAI_08-EjercicioPresentismo.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

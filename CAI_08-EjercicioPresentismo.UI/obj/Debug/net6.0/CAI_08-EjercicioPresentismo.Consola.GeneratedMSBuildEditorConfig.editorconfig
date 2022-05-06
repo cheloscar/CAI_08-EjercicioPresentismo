@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CAI_08_EjercicioPresentismo.Consola
+build_property.ProjectDir = C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\

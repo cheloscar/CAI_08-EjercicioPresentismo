@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>CAI_08_EjercicioPresentismo.Consola</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CAI_08-EjercicioPresentismo.Dominio\CAI_08-EjercicioPresentismo.Dominio.csproj" />
+    <ProjectReference Include="..\CAI_08-EjercicioPresentismo.Entidades\CAI_08-EjercicioPresentismo.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

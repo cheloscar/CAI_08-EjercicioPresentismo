@@ -1,0 +1,15 @@
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\bin\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.exe
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\bin\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.deps.json
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\bin\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.runtimeconfig.json
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\bin\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\bin\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.csproj.AssemblyReference.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.AssemblyInfoInputs.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.AssemblyInfo.cs
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.csproj.CoreCompileInputs.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\refint\CAI_08-EjercicioPresentismo.UI.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\CAI_08-EjercicioPresentismo.UI.genruntimeconfig.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.UI\obj\Debug\net6.0\ref\CAI_08-EjercicioPresentismo.UI.dll

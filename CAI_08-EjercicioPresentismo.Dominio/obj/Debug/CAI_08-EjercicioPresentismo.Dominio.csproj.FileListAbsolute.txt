@@ -1,0 +1,9 @@
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\bin\Debug\CAI_08-EjercicioPresentismo.Dominio.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\bin\Debug\CAI_08-EjercicioPresentismo.Dominio.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\bin\Debug\CAI_08-EjercicioPresentismo.Entidades.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\bin\Debug\CAI_08-EjercicioPresentismo.Entidades.pdb
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\obj\Debug\CAI_08-EjercicioPresentismo.Dominio.csproj.AssemblyReference.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\obj\Debug\CAI_08-EjercicioPresentismo.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\obj\Debug\CAI_08-EjercicioPresentismo.Dominio.csproj.CopyComplete
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\obj\Debug\CAI_08-EjercicioPresentismo.Dominio.dll
+C:\Users\mgarayalde\OneDrive\Facultad\PracticasCAI2022\CAI_08-EjercicioPresentismo\CAI_08-EjercicioPresentismo.Dominio\obj\Debug\CAI_08-EjercicioPresentismo.Dominio.pdb
