@@ -26,7 +26,7 @@ namespace CAI_08_EjercicioPresentismo
 
         public override string ToString()
         {
-            return _fechaReferencia + " " + _alumno.Display() + " está presente: " + _estaPresente.ToString() + " por " + _preceptor.Display() + " registrado el " + _fechaHoraReal.ToString("yyyyMMdd");
+            return $"{_fechaReferencia} {_alumno.ToString()} está presente: {_estaPresente.ToString()} por {_preceptor.ToString()} registrado el {_fechaHoraReal.ToString("yyyyMMdd")}";
         }
         public string FechaReferencia()
         {

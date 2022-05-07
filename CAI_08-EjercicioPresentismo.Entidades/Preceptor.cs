@@ -10,9 +10,9 @@ namespace CAI_08_EjercicioPresentismo
     {
         private int _legajo;
 
-        public override string Display()
+        internal override string Display()
         {
-            return _apellido + " - " + _legajo;
+            return $"{_apellido} - {_legajo}";
         }
         public Preceptor(string nombre, string apellido, int legajo) : base (nombre, apellido)
         {

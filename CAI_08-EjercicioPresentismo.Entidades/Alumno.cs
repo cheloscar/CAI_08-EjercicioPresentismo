@@ -14,9 +14,9 @@ namespace CAI_08_EjercicioPresentismo
         {
             _registro = registro;
         }
-        public override string Display()
+        internal override string Display()
         {
-            return _nombre + " (" + _registro + ")";
+            return $"{_nombre} ({_registro})";
         }
     }
 }

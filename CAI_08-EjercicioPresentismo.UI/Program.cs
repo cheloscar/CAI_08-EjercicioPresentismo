@@ -61,7 +61,7 @@ namespace CAI_08_EjercicioPresentismo
             Console.WriteLine("A continuación se muestra la lista actual de alumnos.");
             foreach (Alumno alumno in _presentismo.GetListaAlumnos())
             {
-                Console.WriteLine(alumno.Display());
+                Console.WriteLine(alumno.ToString());
             }
             // para cada alumno solo preguntar si está presente
             Console.WriteLine("A continuación se le solicitará asistencia para cada alumno regular.");
@@ -74,7 +74,7 @@ namespace CAI_08_EjercicioPresentismo
                 {
                     do
                     {
-                        Console.WriteLine("Indique si " + alumno.Display() + " estuvo presente.");
+                        Console.WriteLine($"Indique si { alumno.ToString()} estuvo presente.");
                         Console.WriteLine("1 - Presente");
                         Console.WriteLine("2 - Ausente");
                         if (int.TryParse(Console.ReadLine(), out _asistencia) && Validaciones.ValidarLimite(1, 2, _asistencia))
@@ -94,7 +94,7 @@ namespace CAI_08_EjercicioPresentismo
                 }
                 else
                 {
-                    Console.WriteLine(alumno.Display() + "es un alumno oyente y no toma asistencia.");
+                    Console.WriteLine($"{alumno.ToString()} es un alumno oyente y no toma asistencia.");
                     Console.WriteLine("Presione cualquier tecla para continuar.");
                     Console.ReadKey();
                 }
@@ -123,9 +123,8 @@ namespace CAI_08_EjercicioPresentismo
             // muestro el toString de cada asistencia
             List<Asistencia> asistenciaList;
             asistenciaList = _presentismo.GetAsistenciasPorFecha(_fecha);
-            if (asistenciaList == null)
-                throw new NoHayFechasCargadasException();
-            else
+            Console.WriteLine($"Lista de asistencia para el día {_fecha}:");
+            if (asistenciaList != null)
             {
                 foreach (Asistencia asistencia in asistenciaList)
                 {
@@ -178,7 +177,7 @@ namespace CAI_08_EjercicioPresentismo
                     _continuar = true;
                 }
             } while (_continuar);
-            return _año.ToString() + "-" + _mes.ToString() + "-" + _dia.ToString();
+            return $"{_año.ToString()}-{_mes.ToString()}-{_dia.ToString()}";
         }
     }
 

@@ -18,8 +18,8 @@ namespace CAI_08_EjercicioPresentismo
         }
         public override string ToString()
         {
-            return Display();
+            return this.Display();
         }
-        public abstract string Display();
+        internal abstract string Display();
     }
 }
